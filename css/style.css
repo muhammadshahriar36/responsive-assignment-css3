@@ -1,0 +1,98 @@
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.logo{
+    width: 400px;
+}
+.half-width img{
+    width: 100%;
+}
+.name-highlight{
+    color: #FA804C;
+}
+.top-banner-2{
+    background-color: #FFF9F4;
+    height: 700px;
+    padding: 100px 200px;
+}
+.top-banner-1{
+    background-color: #FFF9F4;
+}
+.top-banner{
+    background-color: #FFF9F4;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 80px;
+    font-family: 'Bebas Neue', cursive;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font: bold;
+}
+.last-part-2 img{
+   width: 100%;
+   margin-left: 10%;
+
+}
+.last-part{
+    padding: 5%;
+    margin-left: 1%;
+}
+.blog-info{
+    display: flex;
+    align-items: center;   
+    margin: 0px;
+    padding: 0px;
+    
+}
+.info-image img{
+    width: 78px;
+    height: 82px;
+    margin-left: 50px;
+}
+.last-banner{
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.shoe-card-footer{
+    background-color: white;
+    border: 0px;
+}
+.casual-shoes, .formal-shoes{
+   background-color: white;
+   border: 0;
+   border-radius: 30px;
+}
+..casual-shoes img{
+   background-color: #F1F1F1;
+   width: 334px;
+   height: 327px;
+}
+.shoes{
+    border-radius: 20px;
+}
+.buy-now{
+    border-radius: 10px;
+    position: 0;
+   width: 170px;
+   height: 60px;
+}
+.shoe-part{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 500;
+    width: 300px;
+    height: 100px;
+}
+.submit{
+    border-radius: 20px;
+    background-color: #fceae8;
+}
+.footer{
+    font-size: 25px;
+}
