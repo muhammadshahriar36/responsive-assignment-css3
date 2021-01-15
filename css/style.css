@@ -94,5 +94,13 @@ p{
     background-color: #fceae8;
 }
 .footer{
-    font-size: 25px;
+    font-size: 15px;
+}
+@media (max-width:992px){
+    .top-banner-2{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 30px;
+        margin-top: 20px;
+    }
 }
